@@ -16,6 +16,7 @@ public class InheritanceTwoHackerrank {
     class Adder extends Arithmetic{
 
         Adder(){
+            // used super class
             super();
         }
 
